@@ -12,7 +12,7 @@ Build an interactive Streamlit application that loads pre-trained classification
 - **Files:** `test_data.csv` is the fixed labelled test set; `data/breast_cancer_full_dataset.csv` is included for reference and local reproducibility.
 
 ## c. GitHub Repository Link
-**[AIML Assignment 2 GitHub Repository](https://github.com/2026aj05347-source/AIML_assignment2_streamlit_project)**
+**[AIML Assignment 2 GitHub Repository](https://github.com/2026aj05812-hub/AIML_Assignment2_ML)**
 
 ## d. Models used
 
@@ -59,7 +59,7 @@ streamlit run app.py
 Streamlit prints a local URL (usually `http://localhost:8501`) in the terminal; open it in a browser. To reproduce the saved models and test split before starting the app, run `python train.py`. This writes five pipelines under `model/` and recreates `test_data.csv`. Upload `test_data.csv` in the app to check the metrics and confusion matrix.
 
 ## Deploy on Streamlit Community Cloud
-**Live app:** [Open the deployed Streamlit app](https://aiml-assignment2-vinod.streamlit.app/)
+**Live app:** [Open the deployed Streamlit app](https://majorvaibhavkaushikml.streamlit.app/)
 
 Docker is not required for Streamlit Community Cloud. It installs the packages listed in `requirements.txt` and runs the app entry point you select.
 
