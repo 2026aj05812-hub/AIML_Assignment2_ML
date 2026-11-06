@@ -1,4 +1,4 @@
-# AIML Machine Learning Assignment 2 — Classifier Lab
+# AIML Machine Learning Assignment 2 as on 6 Nov 2026
 
 ## a. Problem statement
 Build an interactive Streamlit application that loads pre-trained classification models, accepts a labelled test CSV, and reports Accuracy, AUC, Precision, Recall, F1, MCC, a confusion matrix, and a classification report. The app evaluates uploaded data without retraining models.
